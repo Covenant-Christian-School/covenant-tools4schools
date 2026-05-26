@@ -74,9 +74,9 @@ This is a **source-available** licence — it is not OSI-approved "open source" 
 
 This project is owned by **The Anglican Schools Corporation (TASC)**. The author and maintainer of the codebase is Julian Ridden, Head of AI at TASC.
 
-## Ownership
+## Maintenance & Support
 
-This codebase is provided as-is and comes with no form of support or maintenance responsibilities from **The Anglican Schools Corporation (TASC)**.
+This codebase is provided as-is and comes with no form of support or maintenance responsibilities from The Anglican Schools Corporation (TASC).
+
 ---
-
 *Copyright © 2024–2026 The Anglican Schools Corporation. Released under the PolyForm Noncommercial License 1.0.0 — see [LICENSE](LICENSE).*
