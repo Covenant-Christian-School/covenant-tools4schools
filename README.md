@@ -2,7 +2,7 @@
 
 An AI-powered directory of educational technology tools developed for **The Anglican Schools Corporation (TASC)**. Teachers sign in via SAML, browse a curated catalogue of vetted AI tools, run AI-powered search, and generate classroom activity ideas tailored to NSW learning areas. Admins submit new tools, run AI vetting research, and publish approved entries.
 
-Production: <https://tools4schools.tasc.nsw.edu.au/>
+Production:
 
 ## Quick start
 
